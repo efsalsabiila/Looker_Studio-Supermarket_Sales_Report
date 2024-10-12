@@ -1,10 +1,10 @@
-# Looker Studio Dashboard: **[Supermarket Sales Report]**
+# Looker Studio Dashboard: **Supermarket Sales Report**
 
-Welcome to the **[Supermarket Sales Report]** repository, where I showcase a comprehensive dashboard built using **Looker Studio**. This dashboard **[provide a comprehensive view of key performance indicators to support informed decision-making]**.
+Welcome to the **Supermarket Sales Report** repository, where I showcase a comprehensive dashboard built using **Looker Studio**. This dashboard **provide a comprehensive view of key performance indicators to support informed decision-making**.
 
 ## Dashboard Overview
 
-The **[Supermarket Sales Report]** was designed to:
+The **Supermarket Sales Report** was designed to:
 1. **Sales Performance Monitoring**: Track overall sales performance over time, including daily, weekly, and monthly trends, to identify peak shopping periods and assess the effectiveness of promotions.
 2. **Product Performance Analysis**: Evaluate the sales performance of individual products and categories, identifying high-performing items and those that may require promotional support or reevaluation.
 3. **Comparison by Store Location**: Analyze sales performance across multiple store locations to identify best practices, understand regional differences in consumer behavior, and optimize inventory and marketing strategies accordingly.
@@ -17,7 +17,9 @@ This interactive and user-friendly dashboard includes various visualizations to 
 - **Custom Metrics**: Tailored calculations like **[examples, e.g., conversion rates, growth metrics]**.
 - **Interactive Filters**: Allowing users to drill down into specific timeframes, regions, or other dimensions.
 - **Real-Time Data**: The dashboard pulls real-time data for up-to-date insights.
-  
+
+## Actionable Insights
+
 ## Visuals and Metrics
 
 Here’s an overview of the visuals and metrics included in the dashboard:
