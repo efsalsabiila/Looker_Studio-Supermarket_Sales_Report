@@ -5,28 +5,34 @@ Welcome to the **Supermarket Sales Report** repository, where I showcase a compr
 ## Dashboard Overview
 
 The **Supermarket Sales Report** was designed to:
-1. **Sales Performance Monitoring**: Track overall sales performance over time, including daily, weekly, and monthly trends, to identify peak shopping periods and assess the effectiveness of promotions.
-2. **Product Performance Analysis**: Evaluate the sales performance of individual products and categories, identifying high-performing items and those that may require promotional support or reevaluation.
-3. **Comparison by Store Location**: Analyze sales performance across multiple store locations to identify best practices, understand regional differences in consumer behavior, and optimize inventory and marketing strategies accordingly.
-4. **Customer Loyalty Program Evaluation**: Assess the effectiveness of customer loyalty programs by analyzing their impact on repeat purchases and customer retention rates, helping to tailor marketing efforts and enhance customer engagement.
+1. **Sales Performance Monitoring**: Track overall sales performance over time, including daily, weekly, and monthly trends (by drilling through), to identify peak shopping periods and assess the effectiveness of promotions.
+2. **Product Performance Analysis**: Evaluate the sales performance of individual products line, identifying high-performing items and those that may require promotional support or reevaluation.
+3. **Comparison by Store Location and Branch**: Analyze sales performance across multiple store locations and branch to identify best practices, understand regional differences in consumer behavior, and optimize inventory and marketing strategies accordingly.
 
 This interactive and user-friendly dashboard includes various visualizations to highlight trends, comparisons, and actionable insights.
 
 ### Key Features:
 - **Data Visualization**: Clear and insightful charts, graphs, and tables.
-- **Custom Metrics**: Tailored calculations like **[examples, e.g., conversion rates, growth metrics]**.
-- **Interactive Filters**: Allowing users to drill down into specific timeframes, regions, or other dimensions.
-- **Real-Time Data**: The dashboard pulls real-time data for up-to-date insights.
+- **Custom Metrics**: Tailored calculations like profit margin and customized date.
+- **Interactive Filters**: Allowing users to drill down into specific timeframes (daily and monthly).
 
 ## Actionable Insights
+1. Focus on Peak Sales Days (Saturday and Tuesday):
+   - **Staffing**: On these two days consider increasing staff availability to handle higher customer volume.
+   - **Inventory Management**: Ensure popular products are well-stocked. We can use past sales data to identify best-selling items and have them ready for high demand.
+   - **Promotions**: Run special promotions to drive even higher sales, for example, bundle deals.
+2. Targeted Marketing Campaigns:
+   - Since **health and beauty** and **electronics** have the best performance sales, we can tailor marketing campaigns around them in ads.
 
 ## Visuals and Metrics
 
 Here’s an overview of the visuals and metrics included in the dashboard:
 
-1. **[Visualization Name]**: _[Brief description of the chart or graph and the metrics it tracks]_.
-2. **[Visualization Name]**: _[Brief description]_.
-3. **[Visualization Name]**: _[Brief description]_.
+1. **Revenue and Profit Margin per Day/Month**: _This chart allows us to identify when the sales have the best performance and why_.
+2. **Product Insights Section**: _This section allows us to identify which product line has the best performance and why_.
+3. **Branch Analysis**: _This section allows us to identify which branch has the best performance and why_.
+4. Profit Margin Metrics:
+   **Profit Margin (%) = (gross_income / Total) * 100**
 
 ## How to Access the Dashboard
 
