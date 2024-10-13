@@ -37,7 +37,7 @@ Here’s an overview of the visuals and metrics included in the dashboard:
 ## How to Access the Dashboard
 
 To view the dashboard, you can directly click this link below:
-- [Click here to view the dashboard]([#link-to-dashboard](https://lookerstudio.google.com/u/0/reporting/b8a5052d-b055-4270-a716-2f5294a5fa9f/page/p_n3qbazzwld)) (Note: You may need access to Looker Studio to view the full report).
+- [Click here to view the dashboard]([https://lookerstudio.google.com/u/0/reporting/b8a5052d-b055-4270-a716-2f5294a5fa9f/page/p_n3qbazzwld](https://lookerstudio.google.com/u/0/reporting/b8a5052d-b055-4270-a716-2f5294a5fa9f/page/p_n3qbazzwld)) (Note: You may need access to Looker Studio to view the full report).
 - You will find this first page, you can click get started and it will bring you to the main page.
 ![Landing Page](LandingPage.png)
 
